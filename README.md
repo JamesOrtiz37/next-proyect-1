@@ -1,5 +1,25 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+# Next Proyect 1 🚀
+
+Este es un proyecto base creado con Next.js y TypeScript.
+
+## 🚧 En desarrollo
+
+### Tecnologías usadas
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS (si lo estás usando)
+
+### Cómo correr localmente
+
+```bash
+npm install
+npm run dev
+
+
 ## Getting Started
 
 First, run the development server:
@@ -13,6 +33,7 @@ pnpm dev
 # or
 bun dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
